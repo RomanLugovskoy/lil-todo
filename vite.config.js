@@ -1,3 +1,3 @@
 export default {
-  base: "lil-todo",
+  base: "/lil-todo/",
 };
